@@ -6,6 +6,12 @@ MinecraftOS is a modern Minecraft-inspired desktop experience built entirely in 
 
 Designed as a fun creative experiment, it combines the feel of a real operating system with Minecraft-themed applications, widgets, mini-games, and hidden easter eggs.
 
+## 🚀 Live Demo
+
+Visit MinecraftOS here:
+
+https://azkivip.github.io/minecraftos
+
 ## ✨ Current Features
 
 - Modern Minecraft-inspired desktop UI
@@ -55,18 +61,23 @@ The following features are planned for future updates:
 ## 🎮 Applications
 
 ### 📦 Chest Explorer
+
 A Minecraft-themed file manager for exploring and organizing files.
 
 ### 🧑 Villager Messenger
+
 Chat with villagers and discover random messages and hidden interactions.
 
 ### ⚡ Redstone Task Manager
+
 Monitor fake system activity, entities, and redstone processes.
 
 ### 💻 Command Terminal
+
 Execute commands, discover secrets, and unlock hidden achievements.
 
 ### 💥 Creeper Defender
+
 A built-in mini-game where you defend your desktop from incoming creepers.
 
 ## 🛠 Built With
@@ -110,24 +121,16 @@ MinecraftOS contains various secrets:
 
 Try exploring everything.
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-![Desktop](screenshots/desktop.png)
-
 ## 🤔 Why?
 
 Because sometimes the best projects start with:
 
 > "I was bored, so I built a Minecraft operating system."
 
+## Credits
+
+Created by AzkiVIP <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
+
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-## Credits
-
-Created by AzkiVIP  <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
