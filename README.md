@@ -127,3 +127,7 @@ Because sometimes the best projects start with:
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## Credits
+
+Created by AzkiVIP  <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
