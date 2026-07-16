@@ -129,7 +129,7 @@ Because sometimes the best projects start with:
 
 ## Credits
 
-Created by AzkiVIP <img src="https://i.imgur.com/NBQvF2T.png" width="16">.
+Created by AzkiVIP <img src="https://i.imgur.com/vMTgvCV.png" width="16">.
 
 ## 📜 License
 
